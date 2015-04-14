@@ -1,5 +1,8 @@
-/build
-/docs
-/buildtest
-/dist
-/tmp
+target/
+*.swp
+*.class
+.idea/
+.classpath
+.project
+.settings/
+dk.brics.automaton.iml
